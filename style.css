@@ -42,7 +42,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 30px solid black;
+    border-top: 10px solid black;
     border-bottom: 6.25rem solid black;
     height: 10.625rem;
     width: 100%;
@@ -56,7 +56,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 30px solid black;
+    border-top: 10px solid black;
     border-bottom: 6.25rem solid black;
     height: 10.625rem;
     margin-right: 1.875rem;
